@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Corona-test-app/static/css/main.d67880cc.chunk.css",
+    "main.js": "/Corona-test-app/static/js/main.b0d1b659.chunk.js",
+    "main.js.map": "/Corona-test-app/static/js/main.b0d1b659.chunk.js.map",
+    "runtime-main.js": "/Corona-test-app/static/js/runtime-main.dfa79f9b.js",
+    "runtime-main.js.map": "/Corona-test-app/static/js/runtime-main.dfa79f9b.js.map",
+    "static/js/2.78d2a5ce.chunk.js": "/Corona-test-app/static/js/2.78d2a5ce.chunk.js",
+    "static/js/2.78d2a5ce.chunk.js.map": "/Corona-test-app/static/js/2.78d2a5ce.chunk.js.map",
+    "static/js/3.e0c129cf.chunk.js": "/Corona-test-app/static/js/3.e0c129cf.chunk.js",
+    "static/js/3.e0c129cf.chunk.js.map": "/Corona-test-app/static/js/3.e0c129cf.chunk.js.map",
+    "index.html": "/Corona-test-app/index.html",
+    "static/css/main.d67880cc.chunk.css.map": "/Corona-test-app/static/css/main.d67880cc.chunk.css.map",
+    "static/js/2.78d2a5ce.chunk.js.LICENSE.txt": "/Corona-test-app/static/js/2.78d2a5ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfa79f9b.js",
+    "static/js/2.78d2a5ce.chunk.js",
+    "static/css/main.d67880cc.chunk.css",
+    "static/js/main.b0d1b659.chunk.js"
+  ]
+}
