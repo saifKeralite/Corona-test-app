@@ -1,0 +1,2 @@
+#root,body,html{height:100%}#root{display:flex;align-items:center;justify-content:center;padding:20px;color:#fff}body{background:#202020}.box{width:100%;min-height:100px;max-height:600px;overflow:auto;background:#131313;box-shadow:1px 1px 6px -6px #000}.box li{display:flex;justify-content:flex-start;padding:10px 15px}.box li:nth-child(2n){background:#0d0d0d}.main{width:70%}.li-name{min-width:200px}.li-each-val{padding-left:30px;width:25%}.headeer{display:flex;padding:30px 15px;background:#3c3c3c}
+/*# sourceMappingURL=main.d67880cc.chunk.css.map */
